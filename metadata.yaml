@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/260
     wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18803#Fighting-for-the-Right
 gutenberg_bookshelf:
 - US Civil War
 - Children's Fiction
