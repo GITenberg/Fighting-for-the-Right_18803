@@ -1,0 +1,41 @@
+_repo: Fighting-for-the-Right_18803
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shute, A. B.
+    alias: Shute, A. Burnham
+    deathdate: 1906
+    gutenberg_agent_id: '26350'
+    url: http://www.gutenberg.org/2009/agents/26350
+covers:
+- cover_type: archival
+  image_path: 18803-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_bookshelf:
+- US Civil War
+- Children's Fiction
+gutenberg_issued: '2006-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Blue and the Gray--Afloat, book 5
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcc 'PZ'
+title: Fighting for the Right
+url: http://www.gutenberg.org/ebooks/18803
